@@ -75,6 +75,7 @@
         android:layout_marginBottom="40dp">
 
     <Button
+        android:onClick="regName"
         android:layout_weight="1"
         android:background="#5567D1"
         android:textColor="#fff"
